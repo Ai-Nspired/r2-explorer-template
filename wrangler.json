@@ -20,3 +20,11 @@
   },
   "upload_source_maps": true
 }
+{
+  "routes": [
+    {
+      "pattern": "castle.cybrjustice.com",
+      "custom_domain": true
+    }
+  ]
+}
